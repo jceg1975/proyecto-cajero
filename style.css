@@ -1,0 +1,61 @@
+ body {
+margin: 12px;
+background-color:rgb(193, 198, 202);
+ }
+
+ h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: cornflowerblue;
+    text-shadow:1px 1px black ;
+}
+
+ h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color:midnightblue;
+        }
+
+.button1:hover {
+    background-color: #141b2a;
+    width: 220px;
+    height: 30px;
+    border-style:double;
+    padding: 5px 5px;
+    border-radius: 7px;
+    text-align:center; 
+    display:inline-block ;
+    font-size: 14px; color: rgb(160, 171, 226);
+    -webkit-transition-duration: .5s;
+    transition-duration: 1.0s;
+    cursor:pointer;
+}
+
+.button2:hover {
+    background-color: #014c19;
+    width: 220px;
+    height: 30px;
+    border-style:double;
+    padding: 5px 5px;
+    border-radius: 7px;
+    text-align:center; 
+    display:inline-block ;
+    font-size: 14px; color:rgb(177, 253, 177);
+    -webkit-transition-duration: .5s;
+    transition-duration: 1.0s;
+    cursor:pointer;
+}
+
+.button3:hover {
+    background-color: #1c0101;
+    width: 220px;
+    height: 30px;
+    border-style:double;
+    padding: 5px 5px;
+    border-radius: 7px;
+    text-align:center; 
+    display:inline-block ;
+    font-size: 14px; color:rgb(253, 182, 177);
+    -webkit-transition-duration: .5s;
+    transition-duration: 1.0s;
+    cursor:pointer;
+}
